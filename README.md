@@ -13,8 +13,6 @@ AtliQ Hardware, a thriving enterprise, embraced Power BI for data analytics to d
 - DAX Studio (for report optimization)
 - Project charter file
 
-**Company Background** - AtliQ Hardware is a company which supplies computer hardware and peripherals to many of clients such as surge stores, Nomad stores etc. Following unexpected losses in their American store attributed to decisions rooted in surveys, intuition, and limited Excel analysis, the company recognizes the imperative to enhance competitiveness. To this end, they seek to establish an analytics team dedicated to driving data-driven insights and decisions.
-
 <a href = "https://app.powerbi.com/view?r=eyJrIjoiYTYyN2ZhZGMtNjQ1ZS00YmI2LWE1ZjAtZjEzOGJmNjkyOTRkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9">Link to Interactive Dashboard</a>
 
 ### A Glimpse of my Dashboard
